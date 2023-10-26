@@ -16,7 +16,7 @@ const LeftBanner = () => {
       <div className="flex flex-col gap-5">
         <h4 className=" text-lg font-normal">WELCOME TO MY WORLD</h4>
         <h1 className="text-6xl font-bold text-white">
-          Hi, I'm <span className="text-designColor capitalize">John doe</span>
+          Hi, I'm <span className="text-designColor capitalize">Aryan Bhat</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
           a <span>{text}</span>
@@ -27,9 +27,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I use animation as a third dimension by which to simplify experiences
-          and kuiding thro each and every interaction. I'm not adding motion
-          just to spruce things up, but doing it in ways that.
+        I excel in crafting visually appealing, highly interactive web applications. My skills encompass design, animation, and development, ensuring a seamless and captivating user experien
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
@@ -57,9 +55,9 @@ const LeftBanner = () => {
             <span className="bannerIcon">
               <FaReact />
             </span>
-            <span className="bannerIcon">
+            {/* <span className="bannerIcon">
               <SiNextdotjs />
-            </span>
+            </span> */}
             <span className="bannerIcon">
               <SiTailwindcss />
             </span>
