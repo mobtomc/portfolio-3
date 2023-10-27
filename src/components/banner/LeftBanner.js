@@ -27,7 +27,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I excel in crafting visually appealing, highly interactive web applications. My skills encompass design, animation, and development, ensuring a seamless and captivating user experien
+        I excel in crafting visually appealing, highly interactive web applications. My skills encompass design, animation, and development, ensuring a seamless and captivating user experience.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
