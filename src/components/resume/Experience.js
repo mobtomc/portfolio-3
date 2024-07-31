@@ -19,19 +19,25 @@ const Experience = () => {
             title="Web Developer Intern"
             subTitle="Oasis Infobyte (June 2023 - July 2023)"
             result="remote"
-            des="This was my very first internship as a web developer,I learned a lot in this short time period. "
+            des="Collaborated with the tech lead to develop a fully automated pizza delivery app, incorporating real-time tracking
+features to enhance customer experience and streamline operations. Utilized mentorship from the tech lead to ensure seamless integration of automation tools and efficient delivery
+tracking, resulting in improved service reliability and customer satisfaction. "
           />
           <ResumeCard
-            title="Web Developer Intern"
-            subTitle="Oasis Infobyte (June 2023 - July 2023)"
-            result="remote"
-            des="I made industry ready projects and had hands on experience in live projects and gained confidence towards my skills "
-          />
-          <ResumeCard
-            title="Cofounder(Cto)"
-            subTitle="SoftwareIndia"
+            title="React Developer Intern"
+            subTitle="Software India (June 2023 - August 2023)"
             result="New Delhi"
-            des="This is a Software as a service based startup which offers services from web development to branding ,all solutions at a single location whatever you may need for your business.I am the lead in-charge of development and maintanence."
+            des="Created a user-friendly dashboard for Software India to manage interns, syncing with Google Forms for smooth hiring
+automation.
+ Developed a system to instantly generate and send offer letters, simplifying the onboarding process for approved interns.
+Developed and designed their main website ensuring scalability while maintaining traffic."
+          />
+          <ResumeCard
+            title="MERN Developer Intern"
+            subTitle="Bicaps business solutions Private Ltd(July 2024-present)"
+            result="New Delhi"
+            des="Developed a full-stack data management system to track employee timesheets, calculate salaries, and manage client details.
+Implemented features for efficient data handling and real-time reporting."
           />
         </div>
       </div>
